@@ -1,1 +1,2 @@
 # website
+I'm working on my website where I'll keep info about my projects, a portfolio and resume and maybe a blog in the future. Right now it's very basic and it is going to completely change later. I'm not a fan of the colors right now, I'll change them later. The links all lead back to index.html since I haven't created the other pages. The social links just go to the normal websites, not any special profile. The code is not the best and could be better. If you want to help clean it up, feel free to make a pull request or report an issue.
