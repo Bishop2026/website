@@ -1,0 +1,43 @@
+body {
+    background-color: darkslategray;
+}
+
+nav {
+    height: 50px;
+    background-color: rgb(40, 155, 150);
+    border-radius: 5px;
+    display: flex;
+}
+
+.website-nav {
+    width: 50%;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-left: 20px;
+}
+
+.website-nav a {
+    width: fit-content;
+    padding-bottom: 4px;
+}
+
+.website-nav img {
+    height: 40px;
+}
+
+.social-nav {
+    width: 50%;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    gap: 20px;
+    padding-right: 20px;
+}
+
+.social-nav a {
+    width: fit-content;
+    padding-bottom: 4px;
+}
